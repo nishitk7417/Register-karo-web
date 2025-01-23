@@ -22,8 +22,9 @@ function SubHome3() {
           <p className="mt-2 text-gray-600 text-center">
             Build web-based solutions that enhance customer experience.
           </p>
-          <Link to='/aboutus' className="mt-4 text-blue-500 hover:underline">
+          <Link to='/aboutus' className="mt-4 text-[#001038] flex items-center gap-1 hover:underline">
             Learn more
+            <svg className='w-[14px] mt-[3px]' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 256A208 208 0 1 1 48 256a208 208 0 1 1 416 0zM0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM294.6 151.2c-4.2-4.6-10.1-7.2-16.4-7.2C266 144 256 154 256 166.3l0 41.7-96 0c-17.7 0-32 14.3-32 32l0 32c0 17.7 14.3 32 32 32l96 0 0 41.7c0 12.3 10 22.3 22.3 22.3c6.2 0 12.1-2.6 16.4-7.2l84-91c3.5-3.8 5.4-8.7 5.4-13.9s-1.9-10.1-5.4-13.9l-84-91z"/></svg>
           </Link>
         </div>
         <div className="flex flex-col items-center p-4 bg-white shadow-lg rounded-lg">
@@ -34,8 +35,9 @@ function SubHome3() {
           <p className="mt-2 text-gray-600 text-center">
           Make data-driven decisions and utilize technology to reach business goals.
           </p>
-          <Link to='/aboutus' className="mt-4 text-blue-500 hover:underline">
+          <Link to='/aboutus' className="mt-4 text-[#001038] flex items-center gap-1 hover:underline">
             Learn more
+            <svg className='w-[14px] mt-[3px]' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 256A208 208 0 1 1 48 256a208 208 0 1 1 416 0zM0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM294.6 151.2c-4.2-4.6-10.1-7.2-16.4-7.2C266 144 256 154 256 166.3l0 41.7-96 0c-17.7 0-32 14.3-32 32l0 32c0 17.7 14.3 32 32 32l96 0 0 41.7c0 12.3 10 22.3 22.3 22.3c6.2 0 12.1-2.6 16.4-7.2l84-91c3.5-3.8 5.4-8.7 5.4-13.9s-1.9-10.1-5.4-13.9l-84-91z"/></svg>
           </Link>
         </div>
         <div className="flex flex-col items-center p-4  shadow-lg rounded-lg">
@@ -46,8 +48,9 @@ function SubHome3() {
           <p className="mt-2 text-gray-600 text-center">
           Foster customer relationships by effectively serving your market.
           </p>
-          <Link to='/aboutus' className="mt-4 text-blue-500 hover:underline">
+          <Link to='/aboutus' className="mt-4 text-[#001038] flex items-center gap-1 hover:underline">
             Learn more
+            <svg className='w-[14px] mt-[3px]' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 256A208 208 0 1 1 48 256a208 208 0 1 1 416 0zM0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM294.6 151.2c-4.2-4.6-10.1-7.2-16.4-7.2C266 144 256 154 256 166.3l0 41.7-96 0c-17.7 0-32 14.3-32 32l0 32c0 17.7 14.3 32 32 32l96 0 0 41.7c0 12.3 10 22.3 22.3 22.3c6.2 0 12.1-2.6 16.4-7.2l84-91c3.5-3.8 5.4-8.7 5.4-13.9s-1.9-10.1-5.4-13.9l-84-91z"/></svg>
           </Link>
         </div>
         <div className="flex flex-col items-center p-4 bg-white shadow-lg rounded-lg">
@@ -58,8 +61,9 @@ function SubHome3() {
           <p className="mt-2 text-gray-600 text-center">
           Turn your ideas into modern products with our design experts.
           </p>
-          <Link to='/aboutus' className="mt-4 text-blue-500 hover:underline">
+          <Link to='/aboutus' className="mt-4 text-[#001038] flex items-center gap-1 hover:underline">
             Learn more
+            <svg className='w-[14px] mt-[3px]' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 256A208 208 0 1 1 48 256a208 208 0 1 1 416 0zM0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM294.6 151.2c-4.2-4.6-10.1-7.2-16.4-7.2C266 144 256 154 256 166.3l0 41.7-96 0c-17.7 0-32 14.3-32 32l0 32c0 17.7 14.3 32 32 32l96 0 0 41.7c0 12.3 10 22.3 22.3 22.3c6.2 0 12.1-2.6 16.4-7.2l84-91c3.5-3.8 5.4-8.7 5.4-13.9s-1.9-10.1-5.4-13.9l-84-91z"/></svg>
           </Link>
         </div>
         <div className="flex flex-col items-center p-4 bg-white shadow-lg rounded-lg">
@@ -70,8 +74,9 @@ function SubHome3() {
           <p className="mt-2 text-gray-600 text-center">
           Expand your business across the globe with minimal effort.
           </p>
-          <Link to='/aboutus' className="mt-4 text-blue-500 hover:underline">
+          <Link to='/aboutus' className="mt-4 text-[#001038] flex items-center gap-1 hover:underline">
             Learn more
+            <svg className='w-[14px] mt-[3px]' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 256A208 208 0 1 1 48 256a208 208 0 1 1 416 0zM0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM294.6 151.2c-4.2-4.6-10.1-7.2-16.4-7.2C266 144 256 154 256 166.3l0 41.7-96 0c-17.7 0-32 14.3-32 32l0 32c0 17.7 14.3 32 32 32l96 0 0 41.7c0 12.3 10 22.3 22.3 22.3c6.2 0 12.1-2.6 16.4-7.2l84-91c3.5-3.8 5.4-8.7 5.4-13.9s-1.9-10.1-5.4-13.9l-84-91z"/></svg>
           </Link>
         </div>
         <div className="flex flex-col items-center p-4 bg-white shadow-lg rounded-lg">
@@ -82,10 +87,14 @@ function SubHome3() {
           <p className="mt-2 text-gray-600 text-center">
           Steering user behaviours with creative design, data insights & technology.
           </p>
-          <Link to='/aboutus' className="mt-4 text-blue-500 hover:underline">
+          <Link to='/aboutus' className="mt-4 text-[#001038] flex items-center gap-1 hover:underline">
             Learn more
+            <svg className='w-[14px] mt-[3px]' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 256A208 208 0 1 1 48 256a208 208 0 1 1 416 0zM0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM294.6 151.2c-4.2-4.6-10.1-7.2-16.4-7.2C266 144 256 154 256 166.3l0 41.7-96 0c-17.7 0-32 14.3-32 32l0 32c0 17.7 14.3 32 32 32l96 0 0 41.7c0 12.3 10 22.3 22.3 22.3c6.2 0 12.1-2.6 16.4-7.2l84-91c3.5-3.8 5.4-8.7 5.4-13.9s-1.9-10.1-5.4-13.9l-84-91z"/></svg>
           </Link>
         </div>
+      </div>
+      <div className='flex justify-center mt-4'>
+        <button className='w-[157px] h-[46px] bg-[#1C4670] rounded-[4px] transition text-white hover:bg-[#FFA229]'>See All Services</button>
       </div>
     </section>
   );
