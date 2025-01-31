@@ -45,7 +45,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/registerkaro-web.git
+   git clone https://github.com/nishitk7417/registerkaro-web.git
    ```
 
 2. Navigate to the project directory:
