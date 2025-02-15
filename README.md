@@ -32,7 +32,7 @@ This project uses the following technologies:
 
 ## Getting Started
 
-Follow these instructions to set up the project locally.
+Follow these instructions to set up the project locally in your system.
 
 ### Prerequisites
 
